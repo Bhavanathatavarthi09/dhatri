@@ -1,4 +1,3 @@
-# my-project
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -171,27 +170,22 @@
     <div class="product-gallery">
 
       <div class="product">
-        <img src="images/minimal-chains.jpg" alt="">
         <h4>MINIMAL EARRING & CHAINS</h4>
       </div>
 
       <div class="product">
-        <img src="images/bracelets.jpg" alt="">
         <h4>BRACELETS</h4>
       </div>
 
       <div class="product">
-        <img src="images/scurenchies-bows.jpg" alt="">
         <h4>SCRUNCHIES AND BOWS</h4>
       </div>
 
       <div class="product">
-        <img src="images/necklaces.jpg" alt="">
         <h4>NECKLACES</h4>
       </div>
 
       <div class="product">
-        <img src="images/CLIPS-COLLECTION.jpg" alt="">
         <h4>CLIPS COLLECTION</h4>
       </div>
 
@@ -263,7 +257,7 @@
       let message = document.getElementById("message").value;
 
       // CHANGE THIS NUMBER TO YOUR WHATSAPP NUMBER
-      let phone = "919999999999";
+      let phone = "917093504081"; 
 
       let text = `Hello, I want to order from Dhatri Collections:%0A
 Name: ${name}%0A
@@ -279,3 +273,4 @@ Message: ${message}`;
 
 </body>
 </html>
+
